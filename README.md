@@ -6,6 +6,6 @@ Indeed is a US-based job search engine which has now expanded to over 60 countri
     Biggest doesn’t always mean best, but I chose Indeed as the best overall job website due to its size, number of industries and lifestyles catered to, and its unmatched update frequency. 
 ### Technical Aspect :
 This project is divided into two part:
-1) Scraping data s using **Beautiful Soup**,**Python Requests**  from Indeed 
+1) Scraping data  using **Beautiful Soup**,**Python Requests** 
 2) Cleaning the data using **NLTK**, **WORD CLOUD** and Visualization it using **MATPLOTLIB**, **PLOTLY**.
 
